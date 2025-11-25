@@ -1,0 +1,6 @@
+    title: the lilly dimension
+    description: i be making items and objects
+    theme: jekyll-theme-minimal
+    markdown: kramdown
+    plugins:
+      - jekyll-feed
