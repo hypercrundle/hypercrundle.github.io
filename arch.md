@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: markdown
 title: "arch installation"
 permalink: /arch
 ---
