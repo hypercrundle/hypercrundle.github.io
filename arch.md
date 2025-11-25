@@ -1,3 +1,7 @@
+layout: page
+title: "arch installation"
+permalink: /arch
+
 #Arch Linux Installation Information
 
 1. download ISO from https://mirrors.mit.edu/archlinux/iso/2025.10.01/
