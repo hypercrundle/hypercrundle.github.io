@@ -3,4 +3,4 @@
     theme: jekyll-theme-minimal
     markdown: kramdown
     plugins:
-      - jekyll-feed
+    
