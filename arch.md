@@ -63,7 +63,7 @@ permalink: /arch
 57. sudo chsh -s $(which zsh)
 58. install oh my zsh
 59. sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-60. nano .zshrc
+60. nano .zshrc - add some fun aliases :D
 61. git clone --depth=1 https://github.com/romkatv/powerlevel10k.git \${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
 62. change the theme to "powerlevel10k/powerlevel10k"
 63. install all the fonts for p10k https://github.com/romkatv/powerlevel10k?tab=readme-ov-file#meslo-nerd-font-patched-for-powerlevel10k
