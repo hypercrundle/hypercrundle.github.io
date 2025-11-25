@@ -3,9 +3,9 @@ layout: page
 title: "arch installation"
 permalink: /arch
 ---
-#Arch Linux Installation Information
+# Arch Linux Installation Information
 
-#Pre-Installation
+# Pre-Installation
 
 1. download ISO from https://mirrors.mit.edu/archlinux/iso/2025.10.01/
 2. verify ISO 
@@ -14,7 +14,7 @@ permalink: /arch
 5. assign 2 cores, 4gib memory, and 32 gb drive space.
 6. boot into arch
 
-#Installation
+# Installation
   
 8. check boot info, looks like my vm has BIOS as the default.
 9. check network connection by pinging "ping.archlinux.com", network is active
@@ -50,7 +50,7 @@ permalink: /arch
 39. exit - exit the chroot environment
 40. reboot
 
-#Post Installation
+# Post Installation
 
 
 42. login,
