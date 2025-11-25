@@ -1,3 +1,4 @@
+---
 layout: page
 title: "arch installation"
 permalink: /arch
@@ -80,5 +81,7 @@ permalink: /arch
 67. run "p10k configure"
 68. ???
 69. profit
+
+---
 
 
