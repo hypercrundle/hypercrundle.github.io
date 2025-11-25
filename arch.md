@@ -2,7 +2,7 @@
 layout: page
 title: "arch installation"
 permalink: /arch
-
+---
 #Arch Linux Installation Information
 
 #Pre-Installation
@@ -81,7 +81,5 @@ permalink: /arch
 67. run "p10k configure"
 68. ???
 69. profit
-
----
 
 
