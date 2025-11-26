@@ -83,3 +83,10 @@ permalink: /arch
 69. profit
 
 
+# Problems And Solutions
+Firstly, VMWare kept hanging randomly, not entirely sure of the solution, but I do know racing against the random hang to see how much Arch Linux you can get installed before it breaks isn't exactly productive.
+(I got all the way to installing grub, beat that.)
+
+Solution: VirtualBox! It's free, and free of Broadcomm nonsense. 10/10 and it Just Works
+
+Second issue: I kept forgetting to install a network manager, which, could be solved by writing documentation regarding installing a network manager.
