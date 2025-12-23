@@ -15,5 +15,5 @@ copy the wireguard config from the wireguard website, remove server name and min
 spin it up, use the qr code to get connection info, copy it into a .conf file so I can import it directly into my wireguard client on my desktop, connect!
 
 
-![Image](image.webp)
 ![Image](image1.webp)
+![Image](image.webp)
