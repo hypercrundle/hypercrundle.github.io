@@ -6,6 +6,9 @@ This docker-file sets up the Frigate NVR software, as well as Double-Take, which
 
 Prior to running the docker-file, you will need to create the folders "config" and "media" in whichever directory you intend to run the docker-file in.
 
+![image](image2.webp)
+
+
 ```
 
 volumes:
